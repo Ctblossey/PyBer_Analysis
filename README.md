@@ -7,7 +7,7 @@
 
 ## Results
 
-* ### Within the data, we saw an inverse relationship between volume and cost. In order of volume, the rankings of rides and drivers was Rural, Suburban, and then Urban with the most. As for average fares, the rankings were Urban, Suburban, and then Rural with the most.
+* ### Within the data, we saw an inverse relationship between volume and cost. For volume, the rankings of rides and drivers was Rural, Suburban, and then Urban with the most. As for average fares, the rankings were Urban, Suburban, and then Rural with the most.
 
 * ### Breakdown of rides/drivers:
     - ### Rural: 125/78
